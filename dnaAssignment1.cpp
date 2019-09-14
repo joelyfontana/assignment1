@@ -221,7 +221,7 @@ int main(int argc, char **argv)
 			}
 
 			//sees if the file is open and then takes the contents of the file and puts it in a string
-			//structure gotten from a source (in readme) but changed and modified to work for my code and purpose
+			//structure gotten from source (in readme) but changed and modified to work for my code and purpose
 			if (DNAtestFile.is_open()){
 				cout << "File " << dnaFileName << " is open" << endl;
 				
