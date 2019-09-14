@@ -194,7 +194,7 @@ int main(int argc, char **argv)
 
 	//write out to a new file
 	ofstream newFile;
-	newFile.open("joelyfontana.txt");
+	newFile.open("joelyfontana.out");
 
 	while (answer == 'y')
 	{
